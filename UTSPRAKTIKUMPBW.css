@@ -1,0 +1,29 @@
+/* navbar selamat datang */
+.up {
+    font-size: 12px;
+    text-align: center;
+    padding-top: 20px;
+    padding-right: 830px;
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-toggler-icon {
+    color: white;
+}
+
+/* tombol logot */
+.cntr {
+    padding-bottom: 10px;
+}
+.btn {
+    border-radius: 31px;
+}
+.cntrr {
+    padding-bottom: 10px;
+    padding-left: 157px;
+    padding-right: 157px;
+}
